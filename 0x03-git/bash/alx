@@ -1,0 +1,4 @@
+-e#l/bin/bash/n echo ALX
+-el#/bin/bashn echo ALX
+#!/bin/bash
+ echo "ALX"
